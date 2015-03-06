@@ -27,20 +27,26 @@ header h1{
 .head1 {
   position: absolute;
   width: 125px;
+  right:50%;
 }
 
 .head2 {
   position: absolute;
   width: 125px;
+  left:50%;
 }
 
 .brain {
   position: absolute;
   width:46px;
+  right:50%;
+  left:50%;
 }
 
 .body{
+  /*position:;*/
   width:320px;
+
 }
 
 /*
